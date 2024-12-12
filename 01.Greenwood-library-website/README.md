@@ -36,9 +36,16 @@ To use git push, type the syntax `git push`
 
 ## Git Pull
 
-the git pull command is used to fetch and download content from remote repository to update the local repository.
+The git pull command is used to fetch and download content from remote repository to update the local repository.
 
 To use git pull, type the syntax `git pull`
 
 ![gitpull](./img/5.gitpull.png)
+
+## Pull Request
+
+This is a proposal to merge a set of changes from one branch into another.
+
+![pullreques](./img/8.pullrequest.png)
+![mergepr](./img/9.mergepr.png)
 
