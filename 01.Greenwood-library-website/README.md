@@ -33,3 +33,12 @@ The git push command is used to push the local repository content to a remote re
 To use git push, type the syntax `git push`
 
 ![gitpush](./img/4.gitpush.png)
+
+## Git Pull
+
+the git pull command is used to fetch and download content from remote repository to update the local repository.
+
+To use git pull, type the syntax `git pull`
+
+![gitpull](./img/5.gitpull.png)
+
